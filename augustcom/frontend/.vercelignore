@@ -1,0 +1,11 @@
+# Ignore everything except frontend
+../backend/
+../.git/
+../README.md
+../DEPLOYMENT_GUIDE.md
+../MONOREPO_SETUP_COMPLETE.md
+../README_MONOREPO.md
+../test_deployment_readiness.py
+../package.json
+../package-lock.json
+../node_modules/
